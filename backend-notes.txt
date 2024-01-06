@@ -1,0 +1,8 @@
+
+                    REST API
+                    --------
+    1)create package.json file - npm init -y
+    2)install json server - npm  i json-server
+    3)create index.js
+    4)create .gitignore file - inoreder to ignore node_modules 
+    5)create db.json file to store data

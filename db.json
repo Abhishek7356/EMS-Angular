@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Admin21",
+      "password": "123",
+      "email": null,
+      "active": "1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Afsal",
+      "email": "afsal123@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": 4,
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": 6,
+      "name": "Afsal",
+      "email": "akhiljith@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": 3,
+      "name": "appu",
+      "email": "appu@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": 23,
+      "name": "manu",
+      "email": "manu@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": 10,
+      "name": "Akhiljith",
+      "email": "akhiljith@gmail.com",
+      "active": "1"
+    }
+  ]
+}
